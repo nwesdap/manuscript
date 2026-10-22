@@ -111,7 +111,7 @@ for name, (season, row, col, label) in seasons.items():
 
 plt.tight_layout(rect=[0, 0, 1, 0.96])
 
-# plt.savefig("figures/Figure7.png", transparent=True, dpi=600)
+# plt.savefig("figures/Figure7.png", transparent=True, dpi=300)
 
 plt.show()
 plt.close()

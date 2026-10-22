@@ -17,11 +17,11 @@ allvars = [
     "TA",
     "pH_T_insitu",
     "CTDOXY",
+    "Silicate",
+    "Phosphate",
     "Nitrate",
     "Nitrite",
     "Ammonium",
-    "Silicate",
-    "Phosphate",
 ]
 
 panel_labels = ["(a)", "(b)", "(c)", "(d)", "(e)", "(f)", "(g)", "(h)", "(i)"]
@@ -111,7 +111,7 @@ for i, onevar in enumerate(allvars):
 
 plt.tight_layout(rect=[0, 0, 1, 0.97])
 
-# plt.savefig("figures/Figure8.png", transparent=True, dpi=600)
+# plt.savefig("figures/Figure8.png", transparent=True, dpi=300)
 
 plt.show()
 plt.close()

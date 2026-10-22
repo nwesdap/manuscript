@@ -110,7 +110,9 @@ for i, (ido, qcu) in enumerate(test.groupby("Name_ID"), start=1):
 
                     if save:
                         fig.savefig(
-                            f"figures/Figure2_{ido}_{qcvar}_{xvar}.png"
+                            f"figures/Figure2_{ido}_{qcvar}_{xvar}.png",
+                            transparent=True,
+                            dpi=300,
                         )
 
                     if show:
@@ -173,7 +175,11 @@ if qc_count > 0:
     fig.tight_layout()
 
     if save:
-        fig.savefig(f"figures/Figure2_{ido}_{qcvar}_{xvar}.png")
+        fig.savefig(
+            f"figures/Figure2_{ido}_{qcvar}_{xvar}.png",
+            transparent=True,
+            dpi=300,
+        )
 
     if show:
         plt.show()
@@ -216,4 +222,4 @@ ax.scatter(
 
 plt.title("NorwegianWestCoast_2020_2021", fontsize=20)
 
-# plt.savefig("figures/Figure2a.png", transparent=True, dpi=600)
+# plt.savefig("figures/Figure2a.png", transparent=True, dpi=300)

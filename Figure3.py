@@ -182,4 +182,8 @@ ax.axhline(0, c="k", lw=0.8)
 ax.grid(alpha=0.2)
 
 fig.tight_layout()
-# fig.savefig("figures/Figure3.png")
+# fig.savefig(
+#     "figures/Figure3.png",
+#     transparent=True,
+#     dpi=300,
+# )

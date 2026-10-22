@@ -180,4 +180,4 @@ ax.annotate(
 )
 
 fig.tight_layout()
-# plt.savefig("figures/Figure1.png", transparent=True, dpi=600)
+plt.savefig("figures/Figure1.png", transparent=True, dpi=300)

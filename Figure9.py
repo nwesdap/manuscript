@@ -183,6 +183,6 @@ ax3.tick_params(labelsize=17)
 
 plt.tight_layout()
 
-# plt.savefig("figures/Figure9.png", transparent=True, dpi=600)
+# plt.savefig("figures/Figure9.png", transparent=True, dpi=300)
 
 plt.show()
