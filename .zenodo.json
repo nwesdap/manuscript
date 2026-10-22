@@ -1,0 +1,146 @@
+{
+    "description": "", 
+    "license": "GPL-3.0-only", 
+    "title": "Figures and statistics from the NWESDAP manuscript (nwesdap/manuscript)", 
+    "creators": [
+        {
+            "affiliation": "Department of Ocean Systems, NIOZ Royal Netherlands Institute for Sea Research, Texel, the Netherlands", 
+            "name": "Brandon, Margaux",
+            "orcid": "0000-0001-5256-3700"
+        },
+        {
+            "affiliation": "Department of Ocean Systems, NIOZ Royal Netherlands Institute for Sea Research, Texel, the Netherlands", 
+            "name": "Humphreys, Matthew P.",
+            "orcid": "0000-0002-9371-7128"
+        },
+        {
+            "affiliation": "University of Groningen, Energy and Sustainability Research Institute Groningen (ESRIG), Centre for Isotope Research (CIO), Oosthem, the Netherlands", 
+            "name": "Koek, A. C. (Cuun)",
+            "orcid": "0009-0003-7287-2000"
+        },
+        {
+            "affiliation": "Department of Ocean Systems, NIOZ Royal Netherlands Institute for Sea Research, Texel, the Netherlands", 
+            "name": "Ádler, Marina A.",
+            "orcid": "0009-0009-6530-4244"
+        },
+        {
+            "affiliation": "Centre for Ocean and Atmospheric Sciences, School of Environmental Sciences, University of East Anglia, Norwich, UK", 
+            "name": "Bakker, Dorothee C. E.",
+            "orcid": "0000-0001-9234-5337"
+        },
+        {
+            "affiliation": "Geophysical Institute, University of Bergen and the Bjerknes Centre for Climate Research, Bergen, Norway", 
+            "name": "Becker, Meike",
+            "orcid": "0000-0001-7650-0923"
+        },
+        {
+            "affiliation": "Leibniz Institute for Baltic Sea Research Warnemünde (IOW), Rostock-Warnemünde, Germany", 
+            "name": "Bittig, Henry C.",
+            "orcid": "0000-0002-8621-3095"
+        },
+        {
+            "affiliation": "Sorbonne Université, CNRS, UMR 7144 Adaptation et Diversité en milieu Marin AD2M, Station Biologique de Roscoff, 29680 Roscoff, France", 
+            "name": "Bozec, Yann"
+        },
+        {
+            "affiliation": "Institute of Marine Research, Tromsø, Norway", 
+            "name": "Chierici, Melissa",
+            "orcid": "0000-0003-0222-2101"
+        },
+        {
+            "affiliation": "Geophysical Institute, University of Bergen and the Bjerknes Centre for Climate Research, Bergen, Norway", 
+            "name": "Darelius, Elin",
+            "orcid": "0000-0003-3060-0317"
+        },
+        {
+            "affiliation": "Plymouth Marine Laboratory, Plymouth, UK", 
+            "name": "Findlay, Helen S.",
+            "orcid": "0000-0002-9742-9246"
+        },
+        {
+            "affiliation": "Flanders Marine Institute (VLIZ), Oostende, Belgium", 
+            "name": "Gkritzalis, Thanos",
+            "orcid": "0000-0002-7897-4230"
+        },
+        {
+            "affiliation": "Centre for Ocean and Atmospheric Sciences, School of Environmental Sciences, University of East Anglia, Norwich, UK", 
+            "name": "Ivimey-Cook, Ruth"
+        },
+        {
+            "affiliation": "Institute of Marine Research, Tromsø, Norway", 
+            "name": "Jones, Elizabeth M.",
+            "orcid": "0000-0001-7660-0238"
+        },
+        {
+            "affiliation": "Royal Belgian Institute of Natural Sciences, Brussels, Belgium", 
+            "name": "Knockaert, Marc"
+        },
+        {
+            "affiliation": "NORCE Research, Bjerknes Centre for Climate Research, Bergen, Norway", 
+            "name": "Lange, Nico",
+            "orcid": "0009-0001-6871-3184"
+        },
+        {
+            "affiliation": "Flanders Marine Institute (VLIZ), Oostende, Belgium", 
+            "name": "Leseurre, Coraline.",
+            "orcid": "0000-0001-7046-5987"
+        },
+        {
+            "affiliation": "Institute of Marine Research, Tromsø, Norway", 
+            "name": "Lødemel, Helene H."
+        },
+        {
+            "affiliation": "Institute of Carbon Cycles, Helmholtz-Zentrum Hereon, Geesthacht, Germany", 
+            "name": "Macovei, Vlad A.",
+            "orcid": "0000-0002-9615-9934"
+        },
+        {
+            "affiliation": "Marine Institute, Galway, Ireland", 
+            "name": "McGovern, Evin",
+            "orcid": "0000-0002-7565-0126"
+        },
+        {
+            "affiliation": "The Water Forum, Nenagh, Ireland", 
+            "name": "McGrath, Triona"
+        },
+        {
+            "affiliation": "Laboratoire LOCEAN/IPSL, Sorbonne Université-CNRS-IRD-MNHN, 75005 Paris, France", 
+            "name": "Metzl, Nicolas",
+            "orcid": "0000-0002-1165-1074"
+        },
+        {
+            "affiliation": "Marine Institute, Galway, Ireland", 
+            "name": "O'Donnell, Garvan"
+        },
+        {
+            "affiliation": "Marine Institute, Galway, Ireland", 
+            "name": "O’Sullivan, Edel M.",
+            "orcid": "0000-0002-0770-2959"
+        },
+        {
+            "affiliation": "Department of Ocean Systems, NIOZ Royal Netherlands Institute for Sea Research, Texel, the Netherlands ", 
+            "name": "Ourradi, Yasmina",
+            "orcid": "0000-0002-0643-1755"
+        },
+        {
+            "affiliation": "Ifremer, Univ. Brest, CNRS, IRD, LEMAR, 29840 Argenton, France", 
+            "name": "Petton, Sébastien",
+            "orcid": "0000-0001-6308-2590"
+        },
+        {
+            "affiliation": "Department of Biological Sciences, University of Bergen, Bergen, Norway", 
+            "name": "Salvanes, Anne G. V.",
+            "orcid": "0000-0003-3505-3076"
+        },
+        {
+            "affiliation": "NORCE Research, Bjerknes Centre for Climate Research, Bergen, Norway", 
+            "name": "Skjelvan, Ingunn",
+            "orcid": "0000-0001-6761-5016"
+        },
+        {
+            "affiliation": "Institute of Carbon Cycles, Helmholtz-Zentrum Hereon, Geesthacht, Germany", 
+            "name": "Voynova, Yoana G.",
+            "orcid": "0000-0002-0714-3210"
+        }
+    ]
+}
