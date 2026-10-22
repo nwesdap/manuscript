@@ -72,7 +72,6 @@ for i, onevar in enumerate(allvars):
     )
 
     gl.top_labels = False
-    gl.xlabels_top = False
 
     ax.coastlines(resolution="10m", linewidth=0.1)
 
