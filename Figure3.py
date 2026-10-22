@@ -1,11 +1,7 @@
 import numpy as np
 import pandas as pd
-import seaborn as sns
 from matplotlib import pyplot as plt
 from scipy.optimize import least_squares
-import cartopy.crs as ccrs
-import cartopy.feature as cfeature
-
 import qctools as qct
 
 # Import dataset
