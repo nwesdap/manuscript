@@ -10,11 +10,12 @@ The data necessary to run the scripts are in the data directory and the figures 
 For Figure 1, it is necessary to download the GEBCO bathymetry file before running the script. 
 To do so, follow these steps: 
 - go to https://download.gebco.net/
-- in "Select subset option" at the top, add these coordinates: North: 75, South: 40, West: -21, East: 25
-- Click on "layers and formats" and select Layers: Bathymetry and Formats: NetCDF (Data)
-- Click on "Add to basket"
-- Click on your basket in the top right corner and click Submit. You can add your email address to receive the link to download the file if needed.
-- Click on the download sign next to the basket to follow your download. Once it is ready, click on the link to start the download of the file (or follow the instructions received by email if you gave your email address). 
-- Extract the zip file.
-- In the folder, select the file called "gebco_2026_n75.0_s40.0_w-21.0_e25.0.nc" and add it to the data folder of your local repository.
+- in Data on at the top left, click on Select and choose GEBCO 2026 - Global,
+- in "Select subset option" at the top, add these coordinates: North: 75, South: 40, West: -21, East: 25,
+- Click on "layers and formats" and select Layers: Bathymetry and Formats: NetCDF (Data),
+- Click on "Add to basket",
+- Click on your basket in the top right corner and click Submit. You can add your email address to receive the link to download the file if needed,
+- Click on the download sign next to the basket to follow your download. Once it is ready, click on the link to start the download of the file (or follow the instructions received by email if you gave your email address),
+- Extract the zip file,
+- In the folder, select the file called "gebco_2026_n75.0_s40.0_w-21.0_e25.0.nc" and add it to the data folder of your local repository,
 - The automatic name given to the file is the one used in the script, you don't need to rename the file. 
