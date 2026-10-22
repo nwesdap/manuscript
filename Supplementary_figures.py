@@ -113,7 +113,7 @@ fig.suptitle(
 
 plt.tight_layout(rect=[0, 0, 1, 0.96])
 
-# plt.savefig("figures/FigureS1.png", transparent=True, dpi=300)
+plt.savefig("figures/FigureS1.png", dpi=300)
 plt.show()
 plt.close()
 
@@ -215,7 +215,7 @@ fig.suptitle(
 
 plt.tight_layout(rect=[0, 0, 1, 0.96])
 
-# plt.savefig("figures/FigureS2.png", transparent=True, dpi=300)
+plt.savefig("figures/FigureS2.png", dpi=300)
 plt.show()
 plt.close()
 
@@ -317,6 +317,6 @@ fig.suptitle(
 
 plt.tight_layout(rect=[0, 0, 1, 0.96])
 
-# plt.savefig("figures/FigureS3.png", transparent=True, dpi=300)
+plt.savefig("figures/FigureS3.png", dpi=300)
 plt.show()
 plt.close()
